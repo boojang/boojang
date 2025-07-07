@@ -1,20 +1,21 @@
-## HyunJiWoo
+## 🧚‍♀️HYUN JIWOO
 개발중인 개발자입니다.
 <br />
 <br />
 <br />
-## My values
+## 👀My Values
 1. 나의 언어로 설명할 수 있는 힘<br />
 2. 성실하고 정직하며 겸허하게 노력하는 것<br />
 3. 힘을 뺀 삶<br />
 <br />
 
-## How I work <br />
+## ⚙️How I work <br />
 효율적인 일을 위해 함께 생각하고 일하는 환경을 추구합니다.
 <br />
 <br />
 <br />
-## Skills
+
+## 📚Skills
 #### I use it often.
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
@@ -35,5 +36,3 @@
 <br />
 <br />
 <br />
-
-Copyright ⓒ startupcode yaro
